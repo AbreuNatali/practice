@@ -1,2 +1,2 @@
-# training
-training and practice
+# practice
+practical tasks for training
