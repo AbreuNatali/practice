@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Приветствие на разных языках</title>
+</head>
+
+<body>	
+<script>
+	alert ("Приветствие на разных языках вместе с JavaScript!");
+	let languageName = prompt("Введите название иностранного языка"); 
+	switch (languageName) {
+		case "английский": alert ("Hello!");
+			break;
+		case "испанский": alert ("Hola!");
+			break;
+		case "немецкий": alert ("Guten Tag!");
+			break;
+		case "французский": alert ("Bon Jour!");
+			break;
+		default:
+			alert ("Извините, я не знаю "  + languageName + " язык!");
+			break;
+	}
+	alert ("Вот и все!");
+</script>
+</body>
+</html>
