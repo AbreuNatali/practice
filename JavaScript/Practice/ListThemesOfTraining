@@ -1,0 +1,6 @@
+countToTen1.html  -  Подключение JS к html-докумунту через skript в теге head. 
+countToTen2.html и countToTen2.js   -   Подключение JS к html-докумунту через внешний js-файл. 
+SumTowNumber1.html   -   Определение переменной и вычисление суммы двух переменных. 
+GreetingsDifferentLanguage_if-else.html   -   Организация ветвления с помощью if..else.
+GreetingsDifferentLanguage_switch.html   -   Организация ветвления с помощью switch.
+AreaCode_for.html   -   Определение и вывод на страницу массива с помощью цикла for.
